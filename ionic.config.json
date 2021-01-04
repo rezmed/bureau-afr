@@ -1,0 +1,8 @@
+{
+  "name": "Bureau AFR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "9e256a17"
+}
